@@ -1,0 +1,12 @@
+s - saves
+l - loads
+space - paints / unpaints
+space pressed + direction - paints uninterruptedly
+p - loads a pikachu
+c - clears
+up - moves up
+down - moves down
+right - moves right
+left - moves left
+z - changes colors
+q - closes
